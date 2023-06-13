@@ -25,9 +25,9 @@ To run the game click on exe file ,setup resolution Size and the Graphics and th
   * Heal item
 
 ## Contributor
-Jaskarandeep Singh
-Himanshu Singla
-Manvi mehandiaya
-Taesha
-Ankur Garg
-mani Garg
+* Jaskarandeep Singh
+* Himanshu Singla
+* Manvi mehandiaya
+* Taesha
+* Ankur Garg
+* Mani Garg
